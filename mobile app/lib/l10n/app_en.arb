@@ -1,0 +1,114 @@
+{
+  "@@locale": "en",
+  "appTitle": "AI BloodScan",
+  "hello": "Hello",
+  "user": "User",
+  "greeting": "Hello, {name} 👋",
+  "@greeting": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "welcomeToApp": "Welcome to AI BloodScan",
+  "smartCBCAnalysis": "Smart CBC Analysis",
+  
+  "skip": "Skip",
+  "next": "Next",
+  "back": "Back",
+  "getStarted": "Get Started",
+  
+  "onboardingTitle1": "Scan & Analyze",
+  "onboardingSubtitle1": "Instantly capture your CBC report and let AI extract the data for you.",
+  "onboardingTitle2": "Smart Diagnosis",
+  "onboardingSubtitle2": "Get immediate insights into potential conditions like Anemia based on your levels.",
+  "onboardingTitle3": "Detailed Reports",
+  "onboardingSubtitle3": "View comprehensive breakdowns and health tips tailored to your results.",
+  
+  "home": "Home",
+  "history": "History",
+  "settings": "Settings",
+  
+  "uploadCBCSheet": "Upload CBC Sheet",
+  "scanOrUpload": "Scan or upload your blood test report",
+  "manualEntry": "Manual Entry",
+  "enterManually": "Enter your test results manually",
+  "recentActivity": "Recent Activity",
+  "lastAnalysis": "Last Analysis",
+  
+  "uploadReport": "Upload Report",
+  "gallery": "Gallery",
+  "camera": "Camera",
+  "noImageSelected": "No Image Selected",
+  "takePhotoOrUpload": "Take a photo or upload from gallery",
+  "analyzeReport": "Analyze Report",
+  
+  "analyzing": "Analyzing Report...",
+  "analysisResult": "Analysis Result",
+  "viewDiagnosis": "View Diagnosis",
+  
+  "diagnosis": "Diagnosis",
+  "potentialDiagnosis": "Potential Diagnosis",
+  "analysis": "Analysis",
+  "viewFullReport": "View Full Report",
+  
+  "fullReport": "Full Report",
+  "generatedReport": "Detailed Report Generated",
+  "generatePDF": "Generate PDF",
+  "shareReport": "Share Report",
+  
+  "noHistory": "No test history",
+  "noTestsYet": "You haven't analyzed any blood tests yet",
+  "deleteTest": "Delete Test",
+  "confirmDelete": "Are you sure you want to delete this test?",
+  "delete": "Delete",
+  "cancel": "Cancel",
+  
+  "language": "Language",
+  "english": "English",
+  "arabic": "Arabic",
+  "darkMode": "Dark Mode",
+  "lightMode": "Light Mode",
+  "notifications": "Notifications",
+  "manageNotifications": "Manage app notifications",
+  "privacyPolicy": "Privacy Policy",
+  "readPrivacyPolicy": "Read our privacy policy",
+  "about": "About",
+  "version": "Version 1.0.0",
+  "clearHistory": "Clear History",
+  "clearAllHistory": "Clear All History",
+  "confirmClearHistory": "Are you sure you want to clear all test history?",
+  "clear": "Clear",
+  
+  "editName": "Edit Name",
+  "enterYourName": "Enter your name",
+  "save": "Save",
+  
+  "normal": "Normal",
+  "low": "Low",
+  "high": "High",
+  "withinRange": "Within normal range",
+  "value": "Value",
+  "referenceRange": "Reference Range",
+  
+  "parameters": "Parameters",
+  "hemoglobin": "Hemoglobin (HGB)",
+  "redBloodCells": "Red Blood Cells (RBC)",
+  "whiteBloodCells": "White Blood Cells (WBC)",
+  "platelets": "Platelets (PLT)",
+  "lymphocytes": "Lymphocytes (LYMP)",
+  "monocytes": "Monocytes (MONO)",
+  "hematocrit": "Hematocrit (HCT)",
+  "mcv": "Mean Corpuscular Volume (MCV)",
+  "mch": "Mean Corpuscular Hemoglobin (MCH)",
+  "mchc": "MCHC",
+  "rdw": "Red Cell Distribution Width (RDW)",
+  "pdw": "Platelet Distribution Width (PDW)",
+  "mpv": "Mean Platelet Volume (MPV)",
+  "pct": "Plateletcrit (PCT)",
+  
+  "gender": "Gender",
+  "male": "Male",
+  "female": "Female"
+}

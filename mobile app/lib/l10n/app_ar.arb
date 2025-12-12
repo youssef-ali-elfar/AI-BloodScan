@@ -1,0 +1,114 @@
+{
+  "@@locale": "ar",
+  "appTitle": "فحص الدم الذكي",
+  "hello": "مرحبا",
+  "user": "مستخدم",
+  "greeting": "مرحبًا، {name} 👋",
+  "@greeting": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "welcomeToApp": "مرحبًا بك في فحص الدم الذكي",
+  "smartCBCAnalysis": "تحليل تعداد الدم الشامل الذكي",
+  
+  "skip": "تخطي",
+  "next": "التالي",
+  "back": "رجوع",
+  "getStarted": "ابدأ الآن",
+  
+  "onboardingTitle1": "المسح والتحليل",
+  "onboardingSubtitle1": "التقط تقرير تعداد الدم فورًا ودع الذكاء الاصطناعي يستخرج البيانات لك.",
+  "onboardingTitle2": "التشخيص الذكي",
+  "onboardingSubtitle2": "احصل على رؤى فورية حول الحالات المحتملة مثل فقر الدم بناءً على مستوياتك.",
+  "onboardingTitle3": "تقارير مفصلة",
+  "onboardingSubtitle3": "اعرض تحليلات شاملة ونصائح صحية مصممة خصيصًا لنتائجك.",
+  
+  "home": "الرئيسية",
+  "history": "السجل",
+  "settings": "الإعدادات",
+  
+  "uploadCBCSheet": "رفع ورقة التحليل",
+  "scanOrUpload": "امسح أو ارفع تقرير فحص الدم الخاص بك",
+  "manualEntry": "الإدخال اليدوي",
+  "enterManually": "أدخل نتائج الفحص يدويًا",
+  "recentActivity": "النشاط الأخير",
+  "lastAnalysis": "آخر تحليل",
+  
+  "uploadReport": "رفع التقرير",
+  "gallery": "المعرض",
+  "camera": "الكاميرا",
+  "noImageSelected": "لم يتم اختيار صورة",
+  "takePhotoOrUpload": "التقط صورة أو ارفع من المعرض",
+  "analyzeReport": "تحليل التقرير",
+  
+  "analyzing": "جاري تحليل التقرير...",
+  "analysisResult": "نتيجة التحليل",
+  "viewDiagnosis": "عرض التشخيص",
+  
+  "diagnosis": "التشخيص",
+  "potentialDiagnosis": "التشخيص المحتمل",
+  "analysis": "التحليل",
+  "viewFullReport": "عرض التقرير الكامل",
+  
+  "fullReport": "التقرير الكامل",
+  "generatedReport": "تم إنشاء التقرير المفصل",
+  "generatePDF": "إنشاء PDF",
+  "shareReport": "مشاركة التقرير",
+  
+  "noHistory": "لا يوجد سجل فحوصات",
+  "noTestsYet": "لم تقم بتحليل أي فحص دم بعد",
+  "deleteTest": "حذف الفحص",
+  "confirmDelete": "هل أنت متأكد من حذف هذا الفحص؟",
+  "delete": "حذف",
+  "cancel": "إلغاء",
+  
+  "language": "اللغة",
+  "english": "English",
+  "arabic": "العربية",
+  "darkMode": "الوضع الداكن",
+  "lightMode": "الوضع الفاتح",
+  "notifications": "الإشعارات",
+  "manageNotifications": "إدارة إشعارات التطبيق",
+  "privacyPolicy": "سياسة الخصوصية",
+  "readPrivacyPolicy": "اقرأ سياسة الخصوصية الخاصة بنا",
+  "about": "حول",
+  "version": "الإصدار 1.0.0",
+  "clearHistory": "مسح السجل",
+  "clearAllHistory": "مسح كل السجل",
+  "confirmClearHistory": "هل أنت متأكد من مسح سجل الفحوصات بالكامل؟",
+  "clear": "مسح",
+  
+  "editName": "تعديل الاسم",
+  "enterYourName": "أدخل اسمك",
+  "save": "حفظ",
+  
+  "normal": "طبيعي",
+  "low": "منخفض",
+  "high": "مرتفع",
+  "withinRange": "ضمن المعدل الطبيعي",
+  "value": "القيمة",
+  "referenceRange": "المعدل الطبيعي",
+  
+  "parameters": "المعايير",
+  "hemoglobin": "الهيموجلوبين (HGB)",
+  "redBloodCells": "كريات الدم الحمراء (RBC)",
+  "whiteBloodCells": "كريات الدم البيضاء (WBC)",
+  "platelets": "الصفائح الدموية (PLT)",
+  "lymphocytes": "الخلايا اللمفاوية (LYMP)",
+  "monocytes": "الخلايا الوحيدة (MONO)",
+  "hematocrit": "الهيماتوكريت (HCT)",
+  "mcv": "متوسط حجم الكرية (MCV)",
+  "mch": "متوسط هيموجلوبين الكرية (MCH)",
+  "mchc": "متوسط تركيز الهيموجلوبين (MCHC)",
+  "rdw": "عرض توزيع الكريات الحمراء (RDW)",
+  "pdw": "عرض توزيع الصفائح (PDW)",
+  "mpv": "متوسط حجم الصفائح (MPV)",
+  "pct": "نسبة حجم الصفائح (PCT)",
+  
+  "gender": "الجنس",
+  "male": "ذكر",
+  "female": "أنثى"
+}
